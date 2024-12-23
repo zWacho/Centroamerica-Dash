@@ -1,0 +1,22 @@
+{
+    "id": 60978746,
+        "name": "The Golden",
+    "author": "BoBoBoBoBoBoBo",
+    "creators": [],
+    "verifier": "[🇵🇦] sunixpanama",
+    "verification": "https://www.youtube.com/watch?v=tRtjRJJSMlk",
+    "percentToQualify": "72",
+    "password": "886988",
+    "records": [
+        {
+            "user": "[🇨🇷] 13marciano",
+            "link": "https://www.youtube.com/watch?v=EXZeSJbj25U",
+            "percent": 100,
+        },
+        {
+            "user": "[🇭🇳] Henral",
+            "link": "https://www.youtube.com/watch?v=iWRevPlvN-c",
+            "percent": 100,
+        }
+    ]
+}
