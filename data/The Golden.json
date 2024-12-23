@@ -12,11 +12,13 @@
             "user": "[🇨🇷] 13marciano",
             "link": "https://www.youtube.com/watch?v=EXZeSJbj25U",
             "percent": 100,
+            "hz": 240
         },
         {
             "user": "[🇭🇳] Henral",
             "link": "https://www.youtube.com/watch?v=iWRevPlvN-c",
             "percent": 100,
+            "hz": 240
         }
     ]
 }
