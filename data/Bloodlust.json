@@ -1,0 +1,30 @@
+{
+    "id": 42584142,
+        "name": "Bloodlust",
+    "author": "Knobbelboy",
+    "creators": [],
+    "verifier": "[🇭🇳] Zapher",
+    "verification": "https://www.youtube.com/watch?v=YRDTT_Cmff4",
+    "percentToQualify": "100",
+    "password": "121296",
+    "records": [
+        {
+            "user": "[🇨🇷] 13marciano",
+            "link": "https://www.youtube.com/watch?v=L-12Ls96L8A",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "[🇨🇷] KeshGD",
+            "link": "https://www.youtube.com/watch?v=jz8GOvz8c3o",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+           "user": "[🇭🇳] Mariango",
+            "link": "https://www.youtube.com/watch?v=FJ1l21RYW98",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
