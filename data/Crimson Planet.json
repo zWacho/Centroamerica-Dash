@@ -1,20 +1,36 @@
 {
-    "id": ,
-        "name": "",
-    "author": "",
+    "id": 45866767,
+        "name": "Crimson Planet",
+    "author": "TrueOmega",
     "creators": [],
-    "verifier": "[] ",
-    "verification": "",
-    "percentToQualify": "",
-    "password": "",
+    "verifier": "[🇭🇳] Henry",
+    "verification": "https://www.youtube.com/watch?v=dFJ8k1_KcOo",
+    "percentToQualify": "100",
+    "password": "123456",
     "records": [
         {
-            "user": "[🇨🇷] 13marciano",
+            "user": "[🇭🇳] Oruga GD",
             "link": "https://www.youtube.com/watch?v=W_gEdCK-VF4",
             "percent": 100,
-            "hz": 144
+            "hz": 240
+        },
+        {
+            "user": "[🇨🇷] 13marciano",
+            "link": "https://www.youtube.com/watch?v=tG8p7DYAeV0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "[🇭🇳] Mariango",
+            "link": "https://www.youtube.com/watch?v=jjPm5W6Bw54",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "[🇭🇳] Zapher",
+            "link": "https://www.youtube.com/watch?v=1JhuU99Ow9g",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
-
-
